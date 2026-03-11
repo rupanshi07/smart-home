@@ -209,15 +209,7 @@ HomeManager
 
 ---
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create your feature branch: `git checkout -b feature/new-device`
-3. Commit your changes: `git commit -m "Add SmartFridge device"`
-4. Push to the branch: `git push origin feature/new-device`
-5. Open a Pull Request
-
----
 
 ## 📄 License
 
@@ -225,9 +217,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 👩‍💻 Author
-
-Built as a Java OOP learning project demonstrating real-world application of object-oriented design principles.
 
 ---
 
